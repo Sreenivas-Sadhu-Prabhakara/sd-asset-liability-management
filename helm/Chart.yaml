@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-asset-liability-management
+description: "BIAN Service Domain: Asset Liability Management (Manage pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Market and Operational Risk"
+  bian/asset-type: "ALM Position"
+  bian/control-record: "ALM Position Management Plan"
